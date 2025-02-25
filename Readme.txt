@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+This Is The Property of Code4
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Feel Free to duplicate, modify and use as you like.
+Designed by OG himself.....
